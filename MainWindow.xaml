@@ -9,8 +9,9 @@
         Title="MainWindow" Height="800" Width="400">
     
     <!--StackPanel i Grid - dwa główne kontenery -->
-
-    <Border Margin="20">
+    
+    <Border Margin="20" Background="LightYellow" BorderBrush="SteelBlue" BorderThickness="5,5,5,5" CornerRadius="5" Padding="5" >
+        
     <StackPanel >
         <!-- Buttons -->
         <Grid>
